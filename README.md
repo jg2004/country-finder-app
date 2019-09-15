@@ -27,3 +27,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+This app uses the country rest api to search, sort and provide info on 250 countries
