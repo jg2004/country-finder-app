@@ -18,7 +18,6 @@ const routes = [
     name: "country-details",
     path: "/country/:countryId",
     component: CountryDetails,
-
     props: true
   },
   {

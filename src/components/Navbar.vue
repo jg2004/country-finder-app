@@ -11,6 +11,15 @@
   </nav>
 </template>
 
+<script>
+export default {
+  name: "navbar",
+
+  created() {
+    console.log("navbar created");
+  }
+};
+</script>
 
 
 <style lang="scss">
